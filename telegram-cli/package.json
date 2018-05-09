@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "telegram-cli",
+        "scope": null,
+        "escapedName": "telegram-cli",
+        "name": "telegram-cli",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/dastan/telegramclient"
+    ]
+  ],
+  "_from": "telegram-cli@latest",
+  "_id": "telegram-cli@0.1.0",
+  "_inCache": true,
+  "_location": "/telegram-cli",
+  "_nodeVersion": "1.4.3",
+  "_npmUser": {
+    "name": "uside",
+    "email": "udp.tcp@ya.ru"
+  },
+  "_npmVersion": "2.6.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "telegram-cli",
+    "scope": null,
+    "escapedName": "telegram-cli",
+    "name": "telegram-cli",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/telegram-cli/-/telegram-cli-0.1.0.tgz",
+  "_shasum": "72c62a3a0cc2768f441ff3b6e9a72b278a9cef17",
+  "_shrinkwrap": null,
+  "_spec": "telegram-cli",
+  "_where": "/home/dastan/telegramclient",
+  "author": {
+    "name": "uside"
+  },
+  "bugs": {
+    "url": "https://github.com/uSide/node-telegram-cli/issues"
+  },
+  "dependencies": {},
+  "description": "telegram-cli wrapper for Node.js and io.js",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "72c62a3a0cc2768f441ff3b6e9a72b278a9cef17",
+    "tarball": "https://registry.npmjs.org/telegram-cli/-/telegram-cli-0.1.0.tgz"
+  },
+  "gitHead": "f819759692d187005d5b64e74986c567a9b01497",
+  "homepage": "https://github.com/uSide/node-telegram-cli",
+  "keywords": [
+    "telegram"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "uside",
+      "email": "udp.tcp@ya.ru"
+    }
+  ],
+  "name": "telegram-cli",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uSide/node-telegram-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
